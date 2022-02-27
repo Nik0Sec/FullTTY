@@ -45,20 +45,3 @@ keyboard.release(Key.enter)
 
 
 
-
-'''python3 -c "import pty; pty.spawn("/bin/bash")"
-# python3 -c 'import pty; pty.spawn("/bin/bash")'
-	
-#  export TERM=screen-256color
-
-# CTRL Z
-
-
-# echo $TERM
-#stty raw -echo
-
-# fg
-[INTRO]
-export TERM=screen
-
-'''
